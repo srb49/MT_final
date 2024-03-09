@@ -1,0 +1,406 @@
+################################ for essay number  0  ###############################################
+Sentence: 'that alternative forms of transport' - Frequency: 2
+Sentence: 'of transportation and international laws' - Frequency: 2
+Sentence: 'an increase in the number' - Frequency: 2
+Sentence: 'increase in the number of' - Frequency: 2
+Sentence: 'in the number of automobiles' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  1  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  2  ###############################################
+Sentence: 'implication by the government to' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  3  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  4  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  5  ###############################################
+Sentence: 'the health care and education' - Frequency: 2
+Sentence: 'for citizens health care and' - Frequency: 2
+Sentence: 'citizens health care and education' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  6  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  7  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  8  ###############################################
+Sentence: 'of email and text messaging' - Frequency: 2
+Sentence: 'from email and text messaging' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  9  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  10  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  11  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  12  ###############################################
+Sentence: 'high school and university studies' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  13  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  14  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  15  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  16  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  17  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  18  ###############################################
+Sentence: 'hand phones that have access' - Frequency: 2
+Sentence: 'phones that have access to' - Frequency: 2
+Sentence: 'that have access to the' - Frequency: 2
+Sentence: 'have access to the internet' - Frequency: 2
+Sentence: 'access to the internet they' - Frequency: 2
+Sentence: 'they will be able to' - Frequency: 2
+Sentence: 'hand phones to the unemployed' - Frequency: 2
+Sentence: 'can be used for other' - Frequency: 2
+Sentence: 'the money can be used' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  19  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  20  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  21  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  22  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  23  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  24  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  25  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  26  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  27  ###############################################
+Sentence: 'to travel to outer space' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  28  ###############################################
+Sentence: 'tensions and releasing patriotic emotions' - Frequency: 2
+Sentence: 'and releasing patriotic emotions in' - Frequency: 2
+Sentence: 'releasing patriotic emotions in a' - Frequency: 2
+Sentence: 'patriotic emotions in a safe' - Frequency: 3
+Sentence: 'emotions in a safe way' - Frequency: 3
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  12
+################################ for essay number  29  ###############################################
+Sentence: 'i completely agree that government' - Frequency: 2
+Sentence: 'completely agree that government should' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  30  ###############################################
+Sentence: 'the most effective way to' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  31  ###############################################
+Sentence: 'is not a good thing' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  32  ###############################################
+Sentence: 'museums and art galleries will' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  33  ###############################################
+Sentence: 'be installed in every premise' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  34  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  35  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  36  ###############################################
+Sentence: 'the idea that advertising is' - Frequency: 2
+Sentence: 'idea that advertising is a' - Frequency: 2
+Sentence: 'that advertising is a positive' - Frequency: 2
+Sentence: 'advertising is a positive part' - Frequency: 2
+Sentence: 'is a positive part of' - Frequency: 2
+Sentence: 'a positive part of life' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  37  ###############################################
+Sentence: 'of traditional techniques and lifestyles' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  38  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  39  ###############################################
+Sentence: 'place less emphasis on technological' - Frequency: 2
+Sentence: 'less emphasis on technological solutions' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  40  ###############################################
+Sentence: 'is one of the most' - Frequency: 2
+Sentence: 'one of the most important' - Frequency: 2
+Sentence: 'of the most important things' - Frequency: 2
+Sentence: 'the most important things in' - Frequency: 2
+Sentence: 'most important things in life' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  41  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  42  ###############################################
+Sentence: 'that students learn far more' - Frequency: 2
+Sentence: 'students learn far more from' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  43  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  44  ###############################################
+Sentence: 'it is always said that' - Frequency: 2
+Sentence: 'is always said that competition' - Frequency: 2
+Sentence: 'cooperation children can learn about' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  45  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  46  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  47  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  48  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  49  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  50  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  51  ###############################################
+Sentence: 'be given the freedom to' - Frequency: 2
+Sentence: 'given the freedom to express' - Frequency: 2
+Sentence: 'the freedom to express their' - Frequency: 2
+Sentence: 'freedom to express their ideas' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  52  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  53  ###############################################
+Sentence: 'for the development of the' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  54  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  55  ###############################################
+Sentence: 'more on medical care and' - Frequency: 2
+Sentence: 'on medical care and education' - Frequency: 2
+Sentence: 'medical care and education rather' - Frequency: 2
+Sentence: 'care and education rather than' - Frequency: 2
+Sentence: 'and education rather than on' - Frequency: 2
+Sentence: 'building theaters or sports stadiums' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  56  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  57  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  58  ###############################################
+Sentence: 'one who is living overseas' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  59  ###############################################
+Sentence: 'not allowing them to marry' - Frequency: 2
+Sentence: 'people who are attracted to' - Frequency: 2
+Sentence: 'who are attracted to the' - Frequency: 2
+Sentence: 'are attracted to the same' - Frequency: 2
+Sentence: 'attracted to the same sex' - Frequency: 2
+Sentence: 'to the same sex feel' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  60  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  61  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  62  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  63  ###############################################
+Sentence: 'big firms factories and their' - Frequency: 2
+Sentence: 'firms factories and their employees' - Frequency: 2
+Sentence: 'urban traffic and housing problems' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  64  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  65  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  66  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  67  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  68  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  69  ###############################################
+Sentence: 'camping is a great way' - Frequency: 3
+Sentence: 'is a great way to' - Frequency: 3
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  6
+################################ for essay number  70  ###############################################
+Sentence: 'the new foods or medicines' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  71  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  72  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  73  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  74  ###############################################
+Sentence: 'spend less time in cooking' - Frequency: 2
+Sentence: 'less time in cooking food' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  75  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  76  ###############################################
+Sentence: 'raising the price of petrol' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  77  ###############################################
+Sentence: 'of modern technology in agriculture' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  78  ###############################################
+Sentence: 'that keeping animals in captivity' - Frequency: 2
+Sentence: 'keeping animals in captivity is' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  79  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  80  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  81  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  82  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  83  ###############################################
+Sentence: 'a mobile phone or a' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  84  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  85  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  86  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  87  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  88  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  89  ###############################################
+Sentence: 'such as education and housing' - Frequency: 2
+Sentence: 'the quality of people s' - Frequency: 2
+Sentence: 'quality of people s lives' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  90  ###############################################
+Sentence: 'has both positive and negative' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  91  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  92  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  93  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  94  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  95  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  96  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  97  ###############################################
+Sentence: 'to the virtual realm the' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  98  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  99  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  100  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  101  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  102  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  103  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  104  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  105  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  106  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  107  ###############################################
+Sentence: 'solutions should be taken up' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  108  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  109  ###############################################
+Sentence: 'allows people to access information' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  110  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  111  ###############################################
+Sentence: 'to focus on the present' - Frequency: 2
+Sentence: 'focus on the present and' - Frequency: 2
+Sentence: 'on the present and future' - Frequency: 3
+Sentence: 'the present and future generation' - Frequency: 4
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  11
+################################ for essay number  112  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  113  ###############################################
+Sentence: 'we have no reason to' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  114  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  115  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  116  ###############################################
+Sentence: 'that playing sports in teams' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  117  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  118  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  119  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  120  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  121  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  122  ###############################################
+Sentence: 'money on the public transport' - Frequency: 2
+Sentence: 'on the public transport system' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  123  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  124  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  125  ###############################################
+Sentence: 'getting a new job periodically' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  126  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  127  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  128  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  129  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  130  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  131  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  132  ###############################################
+Sentence: 'to live in a new' - Frequency: 2
+Sentence: 'i completely agree with this' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  133  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  134  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  135  ###############################################
+Sentence: 'between personal and professional life' - Frequency: 2
+Sentence: 'maximum number of working hours' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  136  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  137  ###############################################
+Sentence: 'the root of the problem' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  138  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  139  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  140  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  141  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  142  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  143  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  144  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  145  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  146  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  147  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  148  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  149  ###############################################
+Sentence: 'waste of time and money' - Frequency: 2
+Sentence: 'the protection of wild animals' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4

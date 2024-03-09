@@ -1,0 +1,1046 @@
+################################ for essay number  0  ###############################################
+Sentence: 'alternative forms of transport that' - Frequency: 2
+Sentence: 'these alternative forms of transport' - Frequency: 2
+Sentence: 'alternative form of transport that' - Frequency: 3
+Sentence: 'way to travel short distances' - Frequency: 2
+Sentence: 'the road many cities have' - Frequency: 2
+Sentence: 'to encourage more people to' - Frequency: 3
+Sentence: 'form of transport that can' - Frequency: 2
+Sentence: 'of transport that can help' - Frequency: 3
+Sentence: 'transport that can help to' - Frequency: 3
+Sentence: 'that can help to alleviate' - Frequency: 3
+Sentence: 'can help to alleviate traffic' - Frequency: 3
+Sentence: 'help to alleviate traffic congestion' - Frequency: 3
+number of sentences appeared more than once  12  and total number of frequency(that are>1)  31
+################################ for essay number  1  ###############################################
+Sentence: 'giving aid to poorer countries' - Frequency: 3
+Sentence: 'aid to poorer countries has' - Frequency: 2
+Sentence: 'to poorer countries has more' - Frequency: 2
+Sentence: 'poorer countries has more negative' - Frequency: 2
+Sentence: 'countries has more negative effects' - Frequency: 2
+Sentence: 'has more negative effects than' - Frequency: 2
+Sentence: 'more negative effects than positive' - Frequency: 3
+Sentence: 'negative effects than positive effects' - Frequency: 2
+Sentence: 'can lead to a lack' - Frequency: 2
+Sentence: 'lead to a lack of' - Frequency: 3
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  23
+################################ for essay number  2  ###############################################
+Sentence: 'leading to a decrease in' - Frequency: 2
+Sentence: 'to a decrease in global' - Frequency: 4
+Sentence: 'a decrease in global tension' - Frequency: 4
+Sentence: 'contributed to a decrease in' - Frequency: 2
+Sentence: 'decrease in global tension globalization' - Frequency: 2
+Sentence: 'in global tension globalization has' - Frequency: 2
+Sentence: 'lowered tensions between different nations' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  18
+################################ for essay number  3  ###############################################
+Sentence: 'to study at school or' - Frequency: 2
+Sentence: 'study at school or get' - Frequency: 2
+Sentence: 'at school or get a' - Frequency: 2
+Sentence: 'school or get a job' - Frequency: 2
+Sentence: 'or get a job is' - Frequency: 2
+Sentence: 'get a job is a' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  4  ###############################################
+Sentence: 'high sales reflect the power' - Frequency: 3
+Sentence: 'sales reflect the power of' - Frequency: 3
+Sentence: 'reflect the power of advertising' - Frequency: 3
+Sentence: 'the power of advertising more' - Frequency: 2
+Sentence: 'power of advertising more than' - Frequency: 2
+Sentence: 'of advertising more than they' - Frequency: 2
+Sentence: 'advertising more than they reflect' - Frequency: 2
+Sentence: 'more than they reflect the' - Frequency: 2
+Sentence: 'than they reflect the real' - Frequency: 2
+Sentence: 'they reflect the real need' - Frequency: 2
+Sentence: 'creates a sense of identity' - Frequency: 2
+Sentence: 'a sense of identity associated' - Frequency: 2
+Sentence: 'sense of identity associated with' - Frequency: 2
+Sentence: 'of identity associated with certain' - Frequency: 2
+Sentence: 'identity associated with certain brands' - Frequency: 2
+number of sentences appeared more than once  15  and total number of frequency(that are>1)  33
+################################ for essay number  5  ###############################################
+Sentence: 'the issue of gun control' - Frequency: 3
+Sentence: 'the number of gun related' - Frequency: 2
+Sentence: 'number of gun related deaths' - Frequency: 2
+Sentence: 'arguments presented by both sides' - Frequency: 2
+Sentence: 'can help to reduce gun' - Frequency: 2
+Sentence: 'help to reduce gun related' - Frequency: 2
+Sentence: 'to reduce gun related deaths' - Frequency: 2
+Sentence: 'gun control laws can help' - Frequency: 2
+Sentence: 'control laws can help to' - Frequency: 2
+Sentence: 'those against gun control argue' - Frequency: 2
+Sentence: 'against gun control argue that' - Frequency: 2
+number of sentences appeared more than once  11  and total number of frequency(that are>1)  23
+################################ for essay number  6  ###############################################
+Sentence: 'international sporting events such as' - Frequency: 2
+Sentence: 'sporting events such as the' - Frequency: 2
+Sentence: 'people from all over the' - Frequency: 2
+Sentence: 'from all over the world' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  7  ###############################################
+Sentence: 'widened the gap between the' - Frequency: 2
+Sentence: 'the gap between the rich' - Frequency: 2
+Sentence: 'gap between the rich and' - Frequency: 3
+Sentence: 'between the rich and poor' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  9
+################################ for essay number  8  ###############################################
+Sentence: 'of space has led to' - Frequency: 2
+Sentence: 'can help us better understand' - Frequency: 2
+Sentence: 'our planet and the universe' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  9  ###############################################
+Sentence: 'doing extra jobs outside of' - Frequency: 2
+Sentence: 'extra jobs outside of school' - Frequency: 2
+Sentence: 'jobs outside of school can' - Frequency: 2
+Sentence: 'doing extra jobs can help' - Frequency: 4
+Sentence: 'extra jobs can help students' - Frequency: 4
+Sentence: 'jobs can help students develop' - Frequency: 2
+Sentence: 'learn how to manage their' - Frequency: 2
+Sentence: 'practical experience in their areas' - Frequency: 2
+Sentence: 'experience in their areas of' - Frequency: 2
+Sentence: 'in their areas of interest' - Frequency: 2
+Sentence: 'engaging in part time jobs' - Frequency: 2
+Sentence: 'in part time jobs or' - Frequency: 2
+Sentence: 'part time jobs or internships' - Frequency: 2
+number of sentences appeared more than once  13  and total number of frequency(that are>1)  30
+################################ for essay number  10  ###############################################
+Sentence: 'can be a valuable experience' - Frequency: 2
+Sentence: 'be a valuable experience for' - Frequency: 2
+Sentence: 'a valuable experience for students' - Frequency: 2
+Sentence: 'unpaid work can help students' - Frequency: 3
+Sentence: 'work can help students develop' - Frequency: 2
+Sentence: 'can help students develop a' - Frequency: 2
+Sentence: 'develop a sense of purpose' - Frequency: 2
+Sentence: 'a sense of purpose and' - Frequency: 3
+Sentence: 'sense of purpose and meaning' - Frequency: 3
+Sentence: 'this can help them develop' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  23
+################################ for essay number  11  ###############################################
+Sentence: 'paying employees more money is' - Frequency: 2
+Sentence: 'is not the only motivation' - Frequency: 2
+Sentence: 'not the only motivation to' - Frequency: 2
+Sentence: 'the only motivation to make' - Frequency: 2
+Sentence: 'job satisfaction recognition opportunities for' - Frequency: 2
+Sentence: 'satisfaction recognition opportunities for growth' - Frequency: 2
+Sentence: 'recognition opportunities for growth and' - Frequency: 2
+Sentence: 'opportunities for growth and a' - Frequency: 2
+Sentence: 'for growth and a positive' - Frequency: 2
+Sentence: 'growth and a positive work' - Frequency: 2
+Sentence: 'and a positive work environment' - Frequency: 3
+number of sentences appeared more than once  11  and total number of frequency(that are>1)  23
+################################ for essay number  12  ###############################################
+Sentence: 'create a sense of camaraderie' - Frequency: 2
+Sentence: 'a sense of camaraderie and' - Frequency: 2
+Sentence: 'sense of camaraderie and mutual' - Frequency: 2
+Sentence: 'of camaraderie and mutual respect' - Frequency: 2
+Sentence: 'camaraderie and mutual respect between' - Frequency: 2
+Sentence: 'and mutual respect between nations' - Frequency: 2
+Sentence: 'important social issues sporting events' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  14
+################################ for essay number  13  ###############################################
+Sentence: 'to promote alternative sources of' - Frequency: 3
+Sentence: 'promote alternative sources of energy' - Frequency: 3
+Sentence: 'the government should make more' - Frequency: 2
+Sentence: 'government should make more effort' - Frequency: 2
+Sentence: 'should make more effort to' - Frequency: 2
+Sentence: 'make more effort to promote' - Frequency: 2
+Sentence: 'more effort to promote alternative' - Frequency: 2
+Sentence: 'effort to promote alternative sources' - Frequency: 2
+Sentence: 'encouraging the development and investment' - Frequency: 2
+Sentence: 'the development and investment in' - Frequency: 2
+Sentence: 'development and investment in infrastructure' - Frequency: 2
+Sentence: 'and investment in infrastructure for' - Frequency: 2
+Sentence: 'investment in infrastructure for alternative' - Frequency: 2
+Sentence: 'in infrastructure for alternative sources' - Frequency: 2
+Sentence: 'infrastructure for alternative sources of' - Frequency: 2
+Sentence: 'for alternative sources of energy' - Frequency: 2
+Sentence: 'alternative sources of energy can' - Frequency: 4
+Sentence: 'sustainable and long lasting energy' - Frequency: 2
+Sentence: 'alternative energy sources can help' - Frequency: 2
+Sentence: 'of alternative sources of energy' - Frequency: 2
+Sentence: 'sources of energy can lead' - Frequency: 3
+Sentence: 'of energy can lead to' - Frequency: 3
+number of sentences appeared more than once  22  and total number of frequency(that are>1)  50
+################################ for essay number  14  ###############################################
+Sentence: 'governments have a moral responsibility' - Frequency: 2
+Sentence: 'have a moral responsibility to' - Frequency: 2
+Sentence: 'helping the unemployed and homeless' - Frequency: 2
+Sentence: 'investing in programs that help' - Frequency: 2
+Sentence: 'help the unemployed and homeless' - Frequency: 2
+Sentence: 'the unemployed and homeless can' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  15  ###############################################
+Sentence: 'a university serves as a' - Frequency: 2
+Sentence: 'a space for critical thinking' - Frequency: 2
+Sentence: 'space for critical thinking reflection' - Frequency: 2
+Sentence: 'for critical thinking reflection and' - Frequency: 2
+Sentence: 'critical thinking reflection and discovery' - Frequency: 2
+Sentence: 'for personal growth and development' - Frequency: 2
+Sentence: 'students to be active and' - Frequency: 2
+Sentence: 'to be active and responsible' - Frequency: 2
+Sentence: 'be active and responsible citizens' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  16  ###############################################
+Sentence: 'the importance of conservation efforts' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  17  ###############################################
+Sentence: 'the spread of the virus' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  18  ###############################################
+Sentence: 'benefit from the use of' - Frequency: 2
+Sentence: 'from the use of modern' - Frequency: 2
+Sentence: 'the use of modern communication' - Frequency: 4
+Sentence: 'use of modern communication technologies' - Frequency: 4
+Sentence: 'of modern communication technologies has' - Frequency: 2
+Sentence: 'have access to modern communication' - Frequency: 2
+Sentence: 'access to modern communication technologies' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  18
+################################ for essay number  19  ###############################################
+Sentence: 'to take music lessons could' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  20  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  21  ###############################################
+Sentence: 'the widespread prevalence of english' - Frequency: 2
+Sentence: 'widespread prevalence of english has' - Frequency: 2
+Sentence: 'who do not speak the' - Frequency: 2
+Sentence: 'do not speak the language' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  22  ###############################################
+Sentence: 'using animals for human benefit' - Frequency: 3
+Sentence: 'animals for human benefit is' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  5
+################################ for essay number  23  ###############################################
+Sentence: 'museums and art galleries will' - Frequency: 3
+Sentence: 'and art galleries will disappear' - Frequency: 3
+Sentence: 'art galleries will disappear soon' - Frequency: 2
+Sentence: 'that museums and art galleries' - Frequency: 2
+Sentence: 'museums and art galleries are' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  12
+################################ for essay number  24  ###############################################
+Sentence: 'everyday tasks easier and faster' - Frequency: 2
+Sentence: 'tasks easier and faster and' - Frequency: 2
+Sentence: 'have revolutionized the way we' - Frequency: 2
+Sentence: 'revolutionized the way we communicate' - Frequency: 2
+Sentence: 'the way we communicate and' - Frequency: 2
+Sentence: 'way we communicate and access' - Frequency: 2
+Sentence: 'we communicate and access information' - Frequency: 2
+Sentence: 'communicate and access information the' - Frequency: 2
+Sentence: 'the use of computers has' - Frequency: 3
+Sentence: 'has made it possible to' - Frequency: 3
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  22
+################################ for essay number  25  ###############################################
+Sentence: 'equal numbers of males and' - Frequency: 2
+Sentence: 'numbers of males and females' - Frequency: 2
+Sentence: 'of males and females is' - Frequency: 2
+Sentence: 'it is important for universities' - Frequency: 2
+Sentence: 'is important for universities to' - Frequency: 2
+Sentence: 'important for universities to strive' - Frequency: 2
+Sentence: 'policies should be based solely' - Frequency: 2
+Sentence: 'should be based solely on' - Frequency: 2
+Sentence: 'on academic merit and potential' - Frequency: 2
+Sentence: 'the quality of education that' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  20
+################################ for essay number  26  ###############################################
+Sentence: 'food trends have made it' - Frequency: 2
+Sentence: 'trends have made it possible' - Frequency: 2
+Sentence: 'have made it possible for' - Frequency: 4
+Sentence: 'made it possible for people' - Frequency: 4
+Sentence: 'it possible for people to' - Frequency: 4
+Sentence: 'possible for people to spend' - Frequency: 2
+Sentence: 'for people to spend less' - Frequency: 2
+Sentence: 'people to spend less time' - Frequency: 3
+Sentence: 'to spend less time cooking' - Frequency: 3
+Sentence: 'spend less time cooking and' - Frequency: 2
+Sentence: 'more options for quick and' - Frequency: 2
+Sentence: 'options for quick and easy' - Frequency: 2
+Sentence: 'for quick and easy meals' - Frequency: 2
+Sentence: 'a balance between convenience and' - Frequency: 2
+Sentence: 'balance between convenience and nutrition' - Frequency: 2
+number of sentences appeared more than once  15  and total number of frequency(that are>1)  38
+################################ for essay number  27  ###############################################
+Sentence: 'and can help children develop' - Frequency: 3
+Sentence: 'can help children develop important' - Frequency: 3
+Sentence: 'help children develop important skills' - Frequency: 2
+Sentence: 'teamwork problem solving and critical' - Frequency: 2
+Sentence: 'problem solving and critical thinking' - Frequency: 2
+Sentence: 'games on the other hand' - Frequency: 2
+Sentence: 'social skills such as teamwork' - Frequency: 2
+Sentence: 'can help children develop hand' - Frequency: 2
+Sentence: 'help children develop hand eye' - Frequency: 2
+Sentence: 'children develop hand eye coordination' - Frequency: 2
+Sentence: 'both traditional and modern games' - Frequency: 2
+Sentence: 'games can help children develop' - Frequency: 2
+number of sentences appeared more than once  12  and total number of frequency(that are>1)  26
+################################ for essay number  28  ###############################################
+Sentence: 'building theaters or sports stadiums' - Frequency: 2
+Sentence: 'such as education healthcare infrastructure' - Frequency: 2
+Sentence: 'as education healthcare infrastructure and' - Frequency: 2
+Sentence: 'education healthcare infrastructure and social' - Frequency: 2
+Sentence: 'healthcare infrastructure and social welfare' - Frequency: 2
+Sentence: 'of these facilities are often' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  29  ###############################################
+Sentence: 'technology has made it easier' - Frequency: 2
+Sentence: 'technology has also led to' - Frequency: 2
+Sentence: 'has also led to a' - Frequency: 2
+Sentence: 'loss of traditional practices and' - Frequency: 2
+Sentence: 'has facilitated the preservation and' - Frequency: 2
+Sentence: 'facilitated the preservation and transmission' - Frequency: 2
+Sentence: 'the preservation and transmission of' - Frequency: 2
+Sentence: 'preservation and transmission of traditional' - Frequency: 2
+Sentence: 'traditional practices skills and knowledge' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  30  ###############################################
+Sentence: 'enriching our culture and providing' - Frequency: 2
+Sentence: 'our culture and providing us' - Frequency: 2
+Sentence: 'culture and providing us with' - Frequency: 2
+Sentence: 'and providing us with new' - Frequency: 2
+Sentence: 'providing us with new perspectives' - Frequency: 2
+Sentence: 'us with new perspectives and' - Frequency: 2
+Sentence: 'with new perspectives and insights' - Frequency: 2
+Sentence: 'new perspectives and insights into' - Frequency: 2
+Sentence: 'perspectives and insights into the' - Frequency: 2
+Sentence: 'and insights into the human' - Frequency: 2
+Sentence: 'insights into the human experience' - Frequency: 2
+number of sentences appeared more than once  11  and total number of frequency(that are>1)  22
+################################ for essay number  31  ###############################################
+Sentence: 'exert excessive control over the' - Frequency: 2
+Sentence: 'excessive control over the media' - Frequency: 2
+Sentence: 'the freedom of the press' - Frequency: 4
+Sentence: 'laws and regulations in place' - Frequency: 2
+Sentence: 'freedom of the press and' - Frequency: 2
+Sentence: 'balance between protecting the public' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  14
+################################ for essay number  32  ###############################################
+Sentence: 'more opportunities than ever before' - Frequency: 2
+Sentence: 'the introduction of laws that' - Frequency: 2
+Sentence: 'introduction of laws that protect' - Frequency: 2
+Sentence: 'of laws that protect women' - Frequency: 2
+Sentence: 'laws that protect women s' - Frequency: 2
+Sentence: 'that protect women s rights' - Frequency: 2
+Sentence: 'protect women s rights and' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  14
+################################ for essay number  33  ###############################################
+Sentence: 'more environmentally friendly modes of' - Frequency: 2
+Sentence: 'environmentally friendly modes of transportation' - Frequency: 2
+Sentence: 'who need to drive for' - Frequency: 2
+Sentence: 'need to drive for work' - Frequency: 2
+Sentence: 'to drive for work or' - Frequency: 2
+Sentence: 'drive for work or other' - Frequency: 2
+Sentence: 'for work or other essential' - Frequency: 2
+Sentence: 'work or other essential purposes' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  16
+################################ for essay number  34  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  35  ###############################################
+Sentence: 'that does not address the' - Frequency: 2
+Sentence: 'automatically sending drug users to' - Frequency: 2
+Sentence: 'sending drug users to prison' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  36  ###############################################
+Sentence: 'a child suffering from malnutrition' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  37  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  38  ###############################################
+Sentence: 'advantages of art and music' - Frequency: 2
+Sentence: 'exposure to art and music' - Frequency: 2
+Sentence: 'through art and music people' - Frequency: 2
+Sentence: 'art and music people can' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  39  ###############################################
+Sentence: 'the government should take responsibility' - Frequency: 2
+Sentence: 'government should take responsibility for' - Frequency: 2
+Sentence: 'to ensure that everyone has' - Frequency: 2
+Sentence: 'ensure that everyone has a' - Frequency: 2
+Sentence: 'that everyone has a fair' - Frequency: 2
+Sentence: 'everyone has a fair chance' - Frequency: 2
+Sentence: 'has a fair chance to' - Frequency: 2
+Sentence: 'a fair chance to succeed' - Frequency: 2
+Sentence: 'fair chance to succeed and' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  40  ###############################################
+Sentence: 'seem like a great way' - Frequency: 2
+Sentence: 'like a great way to' - Frequency: 2
+Sentence: 'when we look deeper we' - Frequency: 2
+Sentence: 'animals in captivity suffer greatly' - Frequency: 2
+Sentence: 'zoos promote the commodification of' - Frequency: 2
+Sentence: 'promote the commodification of animals' - Frequency: 2
+Sentence: 'do not actually contribute much' - Frequency: 2
+Sentence: 'not actually contribute much to' - Frequency: 2
+Sentence: 'actually contribute much to conservation' - Frequency: 2
+Sentence: 'contribute much to conservation efforts' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  20
+################################ for essay number  41  ###############################################
+Sentence: 'economic development and the environment' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  42  ###############################################
+Sentence: 'is a vital aspect of' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  43  ###############################################
+Sentence: 'and focus primarily on conservation' - Frequency: 2
+Sentence: 'focus primarily on conservation and' - Frequency: 2
+Sentence: 'primarily on conservation and education' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  44  ###############################################
+Sentence: 'to express their ideas freely' - Frequency: 2
+Sentence: 'have the freedom to express' - Frequency: 2
+Sentence: 'artists must have the freedom' - Frequency: 2
+Sentence: 'must have the freedom to' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  45  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  46  ###############################################
+Sentence: 'a clean and efficient source' - Frequency: 2
+Sentence: 'clean and efficient source of' - Frequency: 2
+Sentence: 'and efficient source of energy' - Frequency: 2
+Sentence: 'its utilization must be balanced' - Frequency: 2
+Sentence: 'utilization must be balanced with' - Frequency: 2
+Sentence: 'must be balanced with safety' - Frequency: 2
+Sentence: 'be balanced with safety regulations' - Frequency: 2
+Sentence: 'balanced with safety regulations and' - Frequency: 2
+Sentence: 'with safety regulations and ethical' - Frequency: 2
+Sentence: 'safety regulations and ethical considerations' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  20
+################################ for essay number  47  ###############################################
+Sentence: 'providing mobile phones to the' - Frequency: 3
+Sentence: 'mobile phones to the unemployed' - Frequency: 4
+Sentence: 'phones to the unemployed is' - Frequency: 3
+Sentence: 'to the unemployed is a' - Frequency: 3
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  13
+################################ for essay number  48  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  49  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  50  ###############################################
+Sentence: 'living in a small town' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  51  ###############################################
+Sentence: 'from experience is more important' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  52  ###############################################
+Sentence: 'moving companies to the rural' - Frequency: 4
+Sentence: 'companies to the rural areas' - Frequency: 4
+Sentence: 'the traffic and housing problems' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  10
+################################ for essay number  53  ###############################################
+Sentence: 'the environment and human health' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  54  ###############################################
+Sentence: 'in the marketing and sale' - Frequency: 2
+Sentence: 'the marketing and sale of' - Frequency: 2
+Sentence: 'marketing and sale of consumer' - Frequency: 2
+Sentence: 'and sale of consumer goods' - Frequency: 2
+Sentence: 'sale of consumer goods they' - Frequency: 2
+Sentence: 'negative effects on consumer goods' - Frequency: 2
+Sentence: 'the unique features and benefits' - Frequency: 2
+Sentence: 'unique features and benefits of' - Frequency: 2
+Sentence: 'features and benefits of a' - Frequency: 2
+Sentence: 'and benefits of a product' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  20
+################################ for essay number  55  ###############################################
+Sentence: 'of university education argue that' - Frequency: 2
+Sentence: 'university education argue that it' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  56  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  57  ###############################################
+Sentence: 'be taught to compete or' - Frequency: 2
+Sentence: 'taught to compete or to' - Frequency: 2
+Sentence: 'to compete or to cooperate' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  58  ###############################################
+Sentence: 'in search of better opportunities' - Frequency: 2
+Sentence: 'there are several reasons why' - Frequency: 2
+Sentence: 'on both host and source' - Frequency: 2
+Sentence: 'both host and source countries' - Frequency: 3
+Sentence: 'why more people are migrating' - Frequency: 2
+Sentence: 'more people are migrating to' - Frequency: 2
+Sentence: 'people are migrating to other' - Frequency: 2
+Sentence: 'are migrating to other countries' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  17
+################################ for essay number  59  ###############################################
+Sentence: 'rising standards of living and' - Frequency: 2
+Sentence: 'standards of living and the' - Frequency: 2
+Sentence: 'the desire for cultural exchange' - Frequency: 2
+Sentence: 'desire for cultural exchange and' - Frequency: 3
+Sentence: 'for cultural exchange and adventure' - Frequency: 3
+Sentence: 'implications for individuals and societies' - Frequency: 2
+Sentence: 'the growth of international tourism' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  16
+################################ for essay number  60  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  61  ###############################################
+Sentence: 'living and studying overseas can' - Frequency: 2
+Sentence: 'and studying overseas can be' - Frequency: 2
+Sentence: 'the opportunity to experience different' - Frequency: 2
+Sentence: 'opportunity to experience different cultures' - Frequency: 2
+Sentence: 'of studying overseas is the' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  62  ###############################################
+Sentence: 'reducing the risk of developing' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  63  ###############################################
+Sentence: 'the way we consume news' - Frequency: 2
+Sentence: 'become a thing of the' - Frequency: 2
+Sentence: 'a thing of the past' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  64  ###############################################
+Sentence: 'all the world s problems' - Frequency: 3
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  3
+################################ for essay number  65  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  66  ###############################################
+Sentence: 'same sex marriage should be' - Frequency: 2
+Sentence: 'same sex marriage does not' - Frequency: 2
+Sentence: 'the same legal rights and' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  67  ###############################################
+Sentence: 'everyone should go camping at' - Frequency: 2
+Sentence: 'should go camping at least' - Frequency: 2
+Sentence: 'go camping at least once' - Frequency: 2
+Sentence: 'camping at least once in' - Frequency: 2
+Sentence: 'at least once in their' - Frequency: 2
+Sentence: 'least once in their lifetime' - Frequency: 2
+Sentence: 'bonding and creating memories with' - Frequency: 2
+Sentence: 'and creating memories with loved' - Frequency: 2
+Sentence: 'creating memories with loved ones' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  68  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  69  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  70  ###############################################
+Sentence: '
+
+however learning from other sources' - Frequency: 2
+Sentence: 'learning from other sources such' - Frequency: 2
+Sentence: 'from other sources such as' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  71  ###############################################
+Sentence: 'email and text messaging have' - Frequency: 2
+Sentence: 'email and text messaging can' - Frequency: 3
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  5
+################################ for essay number  72  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  73  ###############################################
+Sentence: 'rich countries should help poor' - Frequency: 3
+Sentence: 'countries should help poor countries' - Frequency: 3
+Sentence: 'should help poor countries is' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  8
+################################ for essay number  74  ###############################################
+Sentence: 'gender equality in university admission' - Frequency: 3
+Sentence: 'equality in university admission is' - Frequency: 2
+Sentence: 'all students regardless of their' - Frequency: 2
+Sentence: 'students regardless of their gender' - Frequency: 2
+Sentence: 'equal access to higher education' - Frequency: 3
+Sentence: 'access to higher education it' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  14
+################################ for essay number  75  ###############################################
+Sentence: 'museums as a form of' - Frequency: 2
+Sentence: 'as a form of entertainment' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  76  ###############################################
+Sentence: 'while computers have several benefits' - Frequency: 2
+Sentence: 'computers have several benefits they' - Frequency: 2
+Sentence: 'have several benefits they also' - Frequency: 2
+Sentence: 'several benefits they also have' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  77  ###############################################
+Sentence: 'the influence of large factories' - Frequency: 2
+Sentence: 'influence of large factories on' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  78  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  79  ###############################################
+Sentence: 'financial assistance to developing countries' - Frequency: 2
+Sentence: 'between developing and developed nations' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  80  ###############################################
+Sentence: 'society should ban all forms' - Frequency: 3
+Sentence: 'should ban all forms of' - Frequency: 3
+Sentence: 'ban all forms of advertising' - Frequency: 3
+Sentence: 'that society should ban all' - Frequency: 2
+Sentence: 'banning all forms of advertising' - Frequency: 3
+Sentence: 'the negative effects of advertising' - Frequency: 2
+Sentence: 'to promote their products and' - Frequency: 2
+Sentence: 'promote their products and services' - Frequency: 2
+Sentence: 'society should focus on regulating' - Frequency: 2
+Sentence: 'should focus on regulating advertising' - Frequency: 2
+number of sentences appeared more than once  10  and total number of frequency(that are>1)  24
+################################ for essay number  81  ###############################################
+Sentence: 'reasons why some married women' - Frequency: 2
+Sentence: 'why some married women choose' - Frequency: 2
+Sentence: 'married women choose to work' - Frequency: 2
+Sentence: 'women choose to work because' - Frequency: 2
+Sentence: 'to work because of financial' - Frequency: 2
+Sentence: 'work because of financial constraints' - Frequency: 2
+Sentence: 'influence a woman s decision' - Frequency: 2
+Sentence: 'a woman s decision to' - Frequency: 2
+Sentence: 'woman s decision to work' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  82  ###############################################
+Sentence: 'the government s involvement in' - Frequency: 3
+Sentence: 'government s involvement in education' - Frequency: 3
+Sentence: 'the quality of education provided' - Frequency: 2
+Sentence: 'is to ensure that education' - Frequency: 2
+Sentence: 'to ensure that education is' - Frequency: 2
+Sentence: 'of high quality this is' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  14
+################################ for essay number  83  ###############################################
+Sentence: 'should learn all school subjects' - Frequency: 2
+Sentence: 'learn all school subjects or' - Frequency: 2
+Sentence: 'all school subjects or focus' - Frequency: 2
+Sentence: 'school subjects or focus on' - Frequency: 2
+Sentence: 'subjects or focus on one' - Frequency: 2
+Sentence: 'focus on one area of' - Frequency: 2
+Sentence: 'on one area of study' - Frequency: 3
+Sentence: 'that a comprehensive education is' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  17
+################################ for essay number  84  ###############################################
+Sentence: 'argue that the influence of' - Frequency: 2
+Sentence: 'that the influence of english' - Frequency: 2
+Sentence: 'the influence of english has' - Frequency: 3
+Sentence: 'the potential loss of linguistic' - Frequency: 2
+Sentence: 'potential loss of linguistic diversity' - Frequency: 2
+Sentence: 'loss of linguistic diversity the' - Frequency: 2
+Sentence: 'of linguistic diversity the advantages' - Frequency: 2
+Sentence: 'the advantages of the influence' - Frequency: 2
+Sentence: 'advantages of the influence of' - Frequency: 3
+Sentence: 'of the influence of english' - Frequency: 3
+Sentence: 'is the ease with which' - Frequency: 2
+Sentence: 'the ease with which individuals' - Frequency: 2
+number of sentences appeared more than once  12  and total number of frequency(that are>1)  27
+################################ for essay number  85  ###############################################
+Sentence: 'of whether creativity should be' - Frequency: 2
+Sentence: 'whether creativity should be given' - Frequency: 2
+Sentence: 'creativity should be given freedom' - Frequency: 2
+Sentence: 'should be given freedom or' - Frequency: 2
+Sentence: 'be given freedom or restrictions' - Frequency: 2
+Sentence: 'given freedom or restrictions is' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  86  ###############################################
+Sentence: 'whether competition or cooperation is' - Frequency: 2
+Sentence: 'competition or cooperation is better' - Frequency: 2
+Sentence: '
+
+on the other hand cooperation' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  87  ###############################################
+Sentence: 'the death penalty is a' - Frequency: 2
+Sentence: 'argue that capital punishment is' - Frequency: 2
+Sentence: 'that the death penalty is' - Frequency: 2
+Sentence: 'the use of capital punishment' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  88  ###############################################
+Sentence: 'a break after high school' - Frequency: 3
+Sentence: 'taking a break after high' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  5
+################################ for essay number  89  ###############################################
+Sentence: 'the use of cctv cameras' - Frequency: 3
+Sentence: 'use of cctv cameras has' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  5
+################################ for essay number  90  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  91  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  92  ###############################################
+Sentence: 'updated with the latest news' - Frequency: 2
+Sentence: 'nurtures a sense of belonging' - Frequency: 2
+Sentence: 'a sense of belonging and' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  93  ###############################################
+Sentence: 'to the high global temperatures' - Frequency: 2
+Sentence: 'into the atmosphere additionally the' - Frequency: 2
+Sentence: 'industrial processes and waste management' - Frequency: 2
+Sentence: 'processes and waste management practices' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  94  ###############################################
+Sentence: 'education and economic development are' - Frequency: 2
+Sentence: 'resources that can be allocated' - Frequency: 2
+Sentence: 'that can be allocated to' - Frequency: 2
+Sentence: 'can be allocated to improve' - Frequency: 2
+Sentence: 'be allocated to improve educational' - Frequency: 2
+Sentence: 'relationship between education and economic' - Frequency: 2
+Sentence: 'between education and economic development' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  14
+################################ for essay number  95  ###############################################
+Sentence: 'the ban on smoking in' - Frequency: 3
+Sentence: 'ban on smoking in public' - Frequency: 4
+Sentence: 'on smoking in public places' - Frequency: 4
+Sentence: 'smoking in public places is' - Frequency: 3
+Sentence: 'in public places is justified' - Frequency: 2
+Sentence: 'public places is justified due' - Frequency: 2
+Sentence: 'places is justified due to' - Frequency: 2
+Sentence: 'is justified due to the' - Frequency: 2
+Sentence: 'the detrimental effects of secondhand' - Frequency: 2
+Sentence: 'detrimental effects of secondhand smoke' - Frequency: 2
+Sentence: 'effects of secondhand smoke the' - Frequency: 2
+Sentence: 'negative impact on public health' - Frequency: 2
+Sentence: 'on public health and the' - Frequency: 2
+Sentence: 'public health and the need' - Frequency: 2
+Sentence: 'health and the need to' - Frequency: 2
+Sentence: 'and the need to promote' - Frequency: 2
+Sentence: 'the need to promote a' - Frequency: 2
+Sentence: 'need to promote a smoke' - Frequency: 2
+Sentence: 'to promote a smoke free' - Frequency: 2
+Sentence: 'promote a smoke free environment' - Frequency: 3
+Sentence: 'a ban on smoking in' - Frequency: 2
+Sentence: 'well being of their citizens' - Frequency: 2
+number of sentences appeared more than once  22  and total number of frequency(that are>1)  51
+################################ for essay number  96  ###############################################
+Sentence: 'of a student s abilities' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  97  ###############################################
+Sentence: 'popularity of e books has' - Frequency: 2
+Sentence: 'of e books has its' - Frequency: 2
+Sentence: 'potential impact on the reading' - Frequency: 2
+Sentence: 'impact on the reading experience' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  98  ###############################################
+Sentence: 'different abilities and social backgrounds' - Frequency: 2
+Sentence: 'mix with each other at' - Frequency: 2
+Sentence: 'with each other at school' - Frequency: 3
+Sentence: 'a sense of equality and' - Frequency: 2
+Sentence: 'fostering a sense of equality' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  11
+################################ for essay number  99  ###############################################
+Sentence: 'encourage exercising in the elderly' - Frequency: 2
+Sentence: 'can play a significant role' - Frequency: 2
+Sentence: 'play a significant role in' - Frequency: 2
+Sentence: 'the elderly to engage in' - Frequency: 2
+Sentence: 'elderly to engage in physical' - Frequency: 2
+Sentence: 'to engage in physical activity' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  100  ###############################################
+Sentence: 'in shaping the behavior of' - Frequency: 2
+Sentence: 'shaping the behavior of students' - Frequency: 2
+Sentence: 'they are more likely to' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  101  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  102  ###############################################
+Sentence: 'research should be conducted by' - Frequency: 2
+Sentence: 'should be conducted by private' - Frequency: 2
+Sentence: 'be conducted by private companies' - Frequency: 2
+Sentence: 'conducted by private companies or' - Frequency: 2
+Sentence: 'by private companies or the' - Frequency: 2
+Sentence: 'private companies or the government' - Frequency: 2
+Sentence: 'companies or the government is' - Frequency: 2
+Sentence: 'the strengths of both sectors' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  16
+################################ for essay number  103  ###############################################
+Sentence: 'salaries above a certain level' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  104  ###############################################
+Sentence: 'of school violence are far' - Frequency: 2
+Sentence: 'school violence are far reaching' - Frequency: 2
+Sentence: 'the well being and academic' - Frequency: 2
+Sentence: 'well being and academic performance' - Frequency: 2
+Sentence: 'being and academic performance of' - Frequency: 2
+Sentence: 'strategies that can be implemented' - Frequency: 2
+Sentence: 'that can be implemented to' - Frequency: 2
+Sentence: 'can be implemented to address' - Frequency: 2
+Sentence: 'impacts of school violence are' - Frequency: 2
+number of sentences appeared more than once  9  and total number of frequency(that are>1)  18
+################################ for essay number  105  ###############################################
+Sentence: 'while working or studying from' - Frequency: 2
+Sentence: 'working or studying from home' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  106  ###############################################
+Sentence: 'a significant amount of money' - Frequency: 2
+Sentence: 'significant amount of money attending' - Frequency: 2
+Sentence: 'amount of money attending cultural' - Frequency: 2
+Sentence: 'of money attending cultural or' - Frequency: 2
+Sentence: 'money attending cultural or sports' - Frequency: 2
+Sentence: 'attending cultural or sports events' - Frequency: 5
+Sentence: 'cultural or sports events can' - Frequency: 3
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  18
+################################ for essay number  107  ###############################################
+Sentence: 'wider range of social connections' - Frequency: 2
+Sentence: 'nature of modern teenage life' - Frequency: 2
+Sentence: 'the preference for online socializing' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  108  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  109  ###############################################
+Sentence: 'obtaining news from the internet' - Frequency: 2
+Sentence: 'newspapers and tv news programs' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  110  ###############################################
+Sentence: 'in both their professional and' - Frequency: 2
+Sentence: 'both their professional and personal' - Frequency: 2
+Sentence: 'their professional and personal lives' - Frequency: 3
+Sentence: 'innovation and progress in society' - Frequency: 3
+Sentence: 'for instance someone who takes' - Frequency: 2
+Sentence: 'instance someone who takes the' - Frequency: 2
+Sentence: 'someone who takes the risk' - Frequency: 2
+Sentence: 'who takes the risk of' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  18
+################################ for essay number  111  ###############################################
+Sentence: 'of learning about family history' - Frequency: 2
+Sentence: 'focusing on the present and' - Frequency: 4
+Sentence: 'on the present and future' - Frequency: 5
+Sentence: 'the present and future generations' - Frequency: 5
+Sentence: 'learning about family history and' - Frequency: 2
+Sentence: 'personal development and societal growth' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  20
+################################ for essay number  112  ###############################################
+Sentence: 'a holistic understanding of the' - Frequency: 2
+Sentence: 'holistic understanding of the subject' - Frequency: 2
+Sentence: 'opponents argue that titles provide' - Frequency: 2
+Sentence: 'argue that titles provide structure' - Frequency: 2
+Sentence: 'that titles provide structure and' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  113  ###############################################
+Sentence: 'science equips children with the' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  114  ###############################################
+Sentence: 'a foreign language at primary' - Frequency: 3
+Sentence: 'foreign language at primary school' - Frequency: 3
+Sentence: 'learning a foreign language at' - Frequency: 4
+Sentence: 'a foreign language at a' - Frequency: 2
+Sentence: 'foreign language at a young' - Frequency: 2
+Sentence: 'language at a young age' - Frequency: 2
+Sentence: 'at a young age can' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  18
+################################ for essay number  115  ###############################################
+Sentence: 'and a sense of achievement' - Frequency: 2
+Sentence: 'individuals should have the freedom' - Frequency: 2
+Sentence: 'should have the freedom to' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  116  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  117  ###############################################
+Sentence: 'and the importance of conservation' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  118  ###############################################
+Sentence: 'with one company can provide' - Frequency: 2
+Sentence: 'one company can provide stability' - Frequency: 2
+Sentence: 'exploring different opportunities can lead' - Frequency: 2
+Sentence: 'different opportunities can lead to' - Frequency: 2
+Sentence: 'opportunities can lead to personal' - Frequency: 2
+Sentence: 'can lead to personal growth' - Frequency: 2
+Sentence: 'lead to personal growth and' - Frequency: 2
+Sentence: 'to personal growth and a' - Frequency: 2
+Sentence: 'personal growth and a broader' - Frequency: 2
+Sentence: 'growth and a broader skill' - Frequency: 2
+Sentence: 'and a broader skill set' - Frequency: 2
+Sentence: 'the same company for an' - Frequency: 2
+Sentence: 'same company for an entire' - Frequency: 2
+Sentence: 'company for an entire career' - Frequency: 2
+Sentence: 'a sense of belonging and' - Frequency: 2
+number of sentences appeared more than once  15  and total number of frequency(that are>1)  30
+################################ for essay number  119  ###############################################
+Sentence: 'the importance of mental strength' - Frequency: 2
+Sentence: 'importance of mental strength and' - Frequency: 2
+Sentence: 'of mental strength and physical' - Frequency: 3
+Sentence: 'mental strength and physical fitness' - Frequency: 5
+Sentence: 'strength and physical fitness may' - Frequency: 2
+Sentence: 'mental strength enables athletes to' - Frequency: 2
+Sentence: 'strength and physical fitness are' - Frequency: 2
+Sentence: 'for success in sports the' - Frequency: 2
+number of sentences appeared more than once  8  and total number of frequency(that are>1)  20
+################################ for essay number  120  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  121  ###############################################
+Sentence: 'the excessive consumption of junk' - Frequency: 4
+Sentence: 'excessive consumption of junk food' - Frequency: 4
+Sentence: 'that education is the key' - Frequency: 2
+Sentence: 'to make healthier dietary choices' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  12
+################################ for essay number  122  ###############################################
+Sentence: 'the environment and individuals health' - Frequency: 2
+Sentence: 'a more efficient and inclusive' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  123  ###############################################
+Sentence: 'or constructing new railway lines' - Frequency: 2
+Sentence: 'investing in existing public transport' - Frequency: 2
+Sentence: 'constructing new railway lines for' - Frequency: 3
+Sentence: 'new railway lines for very' - Frequency: 3
+Sentence: 'railway lines for very fast' - Frequency: 3
+Sentence: 'lines for very fast trains' - Frequency: 3
+Sentence: 'can foster economic development and' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  18
+################################ for essay number  124  ###############################################
+Sentence: 'the downloads of social apps' - Frequency: 2
+Sentence: 'factors such as the increasing' - Frequency: 2
+Sentence: 'such as the increasing reliance' - Frequency: 2
+Sentence: 'as the increasing reliance on' - Frequency: 2
+Sentence: 'the increasing reliance on technology' - Frequency: 2
+Sentence: 'increasing reliance on technology the' - Frequency: 2
+Sentence: 'reliance on technology the need' - Frequency: 2
+Sentence: 'on technology the need for' - Frequency: 2
+Sentence: 'technology the need for connectivity' - Frequency: 2
+Sentence: 'the emergence of new social' - Frequency: 3
+Sentence: 'emergence of new social media' - Frequency: 3
+Sentence: 'of new social media trends' - Frequency: 3
+Sentence: 'the downloads of selected social' - Frequency: 2
+Sentence: 'downloads of selected social apps' - Frequency: 3
+Sentence: 'the surge in social app' - Frequency: 2
+Sentence: 'surge in social app downloads' - Frequency: 2
+number of sentences appeared more than once  16  and total number of frequency(that are>1)  36
+################################ for essay number  125  ###############################################
+Sentence: 'career satisfaction can be achieved' - Frequency: 2
+Sentence: 'satisfaction can be achieved through' - Frequency: 2
+Sentence: 'can be achieved through various' - Frequency: 2
+Sentence: 'personal growth skill acquisition and' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  126  ###############################################
+Sentence: 'on extra responsibilities after school' - Frequency: 2
+Sentence: 'extra responsibilities after school can' - Frequency: 2
+Sentence: 'to ensure that children have' - Frequency: 2
+number of sentences appeared more than once  3  and total number of frequency(that are>1)  6
+################################ for essay number  127  ###############################################
+Sentence: 'rewarding outstanding employees with extra' - Frequency: 3
+Sentence: 'outstanding employees with extra money' - Frequency: 2
+Sentence: 'a fair and transparent reward' - Frequency: 2
+Sentence: 'fair and transparent reward system' - Frequency: 2
+Sentence: 'rewards with other forms of' - Frequency: 2
+Sentence: 'with other forms of recognition' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  13
+################################ for essay number  128  ###############################################
+Sentence: 'both sides of the argument' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  129  ###############################################
+Sentence: 'free to everyone regardless of' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  130  ###############################################
+Sentence: 'their views on public matters' - Frequency: 2
+Sentence: 'celebrities often have access to' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  131  ###############################################
+Sentence: 'attending extra coaching classes can' - Frequency: 2
+Sentence: 'discipline and a strong work' - Frequency: 2
+Sentence: 'and a strong work ethic' - Frequency: 2
+Sentence: 'that attending extra coaching classes' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  132  ###############################################
+Sentence: 'the customs and traditions of' - Frequency: 7
+Sentence: 'customs and traditions of foreign' - Frequency: 5
+Sentence: 'and traditions of foreign places' - Frequency: 5
+Sentence: 'it is essential for people' - Frequency: 2
+Sentence: 'is essential for people to' - Frequency: 2
+Sentence: 'essential for people to respect' - Frequency: 2
+Sentence: 'for people to respect and' - Frequency: 2
+Sentence: 'people to respect and follow' - Frequency: 2
+Sentence: 'to respect and follow the' - Frequency: 2
+Sentence: 'respect and follow the customs' - Frequency: 2
+Sentence: 'and follow the customs and' - Frequency: 2
+Sentence: 'follow the customs and traditions' - Frequency: 3
+Sentence: 'when faced with customs that' - Frequency: 2
+Sentence: 'faced with customs that may' - Frequency: 2
+number of sentences appeared more than once  14  and total number of frequency(that are>1)  40
+################################ for essay number  133  ###############################################
+Sentence: 'to improving people s lives' - Frequency: 2
+Sentence: 'of science it should not' - Frequency: 2
+Sentence: 'science it should not be' - Frequency: 2
+Sentence: 'it should not be its' - Frequency: 2
+Sentence: 'should not be its sole' - Frequency: 2
+Sentence: 'not be its sole purpose' - Frequency: 2
+Sentence: 'may not have an immediate' - Frequency: 2
+number of sentences appeared more than once  7  and total number of frequency(that are>1)  14
+################################ for essay number  134  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  135  ###############################################
+Sentence: 'should be encouraged to meet' - Frequency: 2
+Sentence: 'be encouraged to meet the' - Frequency: 2
+Sentence: 'encouraged to meet the demands' - Frequency: 2
+Sentence: 'to meet the demands of' - Frequency: 2
+Sentence: 'meet the demands of a' - Frequency: 2
+Sentence: 'the demands of a growing' - Frequency: 2
+Sentence: 'demands of a growing economy' - Frequency: 2
+Sentence: 'that working extended hours should' - Frequency: 2
+Sentence: 'working extended hours should be' - Frequency: 2
+Sentence: 'on individuals physical and mental' - Frequency: 3
+Sentence: 'individuals physical and mental health' - Frequency: 3
+Sentence: 'physical and mental health work' - Frequency: 2
+Sentence: 'and mental health work life' - Frequency: 2
+Sentence: 'mental health work life balance' - Frequency: 2
+Sentence: 'health work life balance and' - Frequency: 2
+Sentence: 'work life balance and productivity' - Frequency: 2
+number of sentences appeared more than once  16  and total number of frequency(that are>1)  34
+################################ for essay number  136  ###############################################
+Sentence: 'the teaching of arts subjects' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  137  ###############################################
+Sentence: 'the benefits they bring far' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  138  ###############################################
+Sentence: 'education until the age of' - Frequency: 6
+Sentence: 'until the age of 18' - Frequency: 6
+Sentence: 'the decision to continue education' - Frequency: 2
+Sentence: 'decision to continue education should' - Frequency: 2
+Sentence: 'to continue education should be' - Frequency: 2
+Sentence: 'continue education should be made' - Frequency: 2
+Sentence: 'education should be made on' - Frequency: 2
+Sentence: 'should be made on an' - Frequency: 2
+Sentence: 'be made on an individual' - Frequency: 2
+Sentence: 'made on an individual basis' - Frequency: 2
+Sentence: 'on an individual basis taking' - Frequency: 2
+Sentence: 'an individual basis taking into' - Frequency: 2
+Sentence: 'individual basis taking into account' - Frequency: 2
+Sentence: 'basis taking into account personal' - Frequency: 2
+Sentence: 'taking into account personal aspirations' - Frequency: 2
+Sentence: 'into account personal aspirations and' - Frequency: 2
+Sentence: 'account personal aspirations and career' - Frequency: 2
+Sentence: 'personal aspirations and career objectives' - Frequency: 2
+Sentence: 'full time education until the' - Frequency: 5
+Sentence: 'time education until the age' - Frequency: 5
+Sentence: 'not all young people may' - Frequency: 2
+number of sentences appeared more than once  21  and total number of frequency(that are>1)  56
+################################ for essay number  139  ###############################################
+Sentence: 'large companies and businesses have' - Frequency: 2
+Sentence: 'companies and businesses have the' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  140  ###############################################
+Sentence: 'the defendant s past criminal' - Frequency: 2
+Sentence: 'defendant s past criminal record' - Frequency: 4
+Sentence: 'a defendant s past criminal' - Frequency: 4
+Sentence: 's past criminal record to' - Frequency: 2
+Sentence: 'the role of the defense' - Frequency: 2
+Sentence: 'role of the defense lawyer' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  16
+################################ for essay number  141  ###############################################
+Sentence: 'the prevention of health problems' - Frequency: 2
+Sentence: 'prevention of health problems and' - Frequency: 2
+Sentence: 'of health problems and illnesses' - Frequency: 2
+Sentence: 'a balance between prevention and' - Frequency: 2
+Sentence: 'balance between prevention and treatment' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  142  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0
+################################ for essay number  143  ###############################################
+Sentence: 'harsher penalties for driving offenses' - Frequency: 2
+Sentence: 'to improve safety on our' - Frequency: 2
+Sentence: 'improve safety on our roads' - Frequency: 2
+Sentence: 'stricter punishments for driving offenses' - Frequency: 2
+Sentence: 'punishments for driving offenses can' - Frequency: 2
+number of sentences appeared more than once  5  and total number of frequency(that are>1)  10
+################################ for essay number  144  ###############################################
+Sentence: 'focusing on their access to' - Frequency: 2
+Sentence: 'on their access to education' - Frequency: 2
+Sentence: 'their access to education healthcare' - Frequency: 2
+Sentence: 'access to education healthcare and' - Frequency: 2
+Sentence: 'to education healthcare and employment' - Frequency: 2
+Sentence: 'education healthcare and employment opportunities' - Frequency: 2
+number of sentences appeared more than once  6  and total number of frequency(that are>1)  12
+################################ for essay number  145  ###############################################
+Sentence: 'the benefits of vocational training' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  146  ###############################################
+Sentence: 'living in big cities is' - Frequency: 2
+Sentence: 'big cities also tend to' - Frequency: 2
+number of sentences appeared more than once  2  and total number of frequency(that are>1)  4
+################################ for essay number  147  ###############################################
+Sentence: 'a deeper understanding of maths' - Frequency: 2
+number of sentences appeared more than once  1  and total number of frequency(that are>1)  2
+################################ for essay number  148  ###############################################
+Sentence: 'that old buildings should be' - Frequency: 2
+Sentence: 'old buildings should be destroyed' - Frequency: 2
+Sentence: 'buildings should be destroyed and' - Frequency: 2
+Sentence: 'should be destroyed and replaced' - Frequency: 2
+number of sentences appeared more than once  4  and total number of frequency(that are>1)  8
+################################ for essay number  149  ###############################################
+number of sentences appeared more than once  0  and total number of frequency(that are>1)  0

@@ -1,0 +1,81 @@
+HUMAN ESSAY NUMBER 40 
+[nltk_data] Downloading package punkt to
+[nltk_data]     CUserssomritaAppDataRoamingnltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     CUserssomritaAppDataRoamingnltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     CUserssomritaAppDataRoamingnltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     CUserssomritaAppDataRoamingnltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+this other cases
+Offset 152, length 4, Rule ID THAT_THAN
+Message Did you mean “than”
+Suggestion than
+...easily be prevented by exercising. More that 1.6 billion people in the world are eit...
+                                           ^^^^
+this other cases
+Offset 466, length 10, Rule ID MORFOLOGIK_RULE_EN_GB
+Message Possible spelling mistake found.
+Suggestion Exercising; Excising; Excerpting; Etherising; Excessing; Expertising; Mercerising
+...can improve self-esteem and confidence. Excerising has numerous benefits and it can even b...
+                                           ^^^^^^^^^^
+this other cases
+Offset 498, length 4, Rule ID COMMA_COMPOUND_SENTENCE
+Message Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion , and
+...idence. Excerising has numerous benefits and it can even be fun. It's important you ...
+                                           ^^^^
+this other cases
+Offset 1890, length 11, Rule ID EN_COMPOUNDS
+Message This word is normally spelled with a hyphen.
+Suggestion self-esteem
+...ce that people who exercise have higher self esteem and confidence. It also showed that act...
+                                           ^^^^^^^^^^^
+this other cases
+Offset 2081, length 4, Rule ID COMMA_COMPOUND_SENTENCE
+Message Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion , and
+...ps people have positive outlooks on life and it helps relieves tension and stress. W...
+                                           ^^^^
+this other cases
+Offset 2534, length 4, Rule ID COMMA_COMPOUND_SENTENCE
+Message Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion , and
+...k that exercising takes up a lot of time and it requires too much work. When people ...
+                                           ^^^^
+this other cases
+Offset 2839, length 10, Rule ID PRP_VBG
+Message A verb seems to be missing. Did you mean “you're having”, “you are having”, or “you were having”
+Suggestion you're having; you are having; you were having
+... figure out which is best for you. When you having fun you don't even realize that your ex...
+                                           ^^^^^^^^^^
+this other cases
+Offset 2882, length 4, Rule ID YOUR
+Message Did you mean “you're” (short for ‘you are’)
+Suggestion you're
+... having fun you don't even realize that your exercising and you look forward to it e...
+                                           ^^^^
+this other cases
+Offset 2897, length 4, Rule ID COMMA_COMPOUND_SENTENCE
+Message Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion , and
+... don't even realize that your exercising and you look forward to it everyday. Settin...
+                                           ^^^^
+this other cases
+Offset 2925, length 8, Rule ID EVERYDAY_EVERY_DAY
+Message ‘Everyday’ is an adjective. Did you mean “every day”
+Suggestion every day
+...r exercising and you look forward to it everyday. Setting goals and rewards will help yo...
+                                           ^^^^^^^^
+this other cases
+Offset 3300, length 4, Rule ID COMMA_COMPOUND_SENTENCE
+Message Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion , and
+...one of the most important things in life and it's one hundred percent beneficial. Ma...
+                                           ^^^^
+total count  11
+11

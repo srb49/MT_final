@@ -1,0 +1,13 @@
+openai
+pandas
+scikit-learn
+spacy
+nltk
+numpy
+language_tool_python
+textstat
+scipy
+mlxtend
+matplotlib
+seaborn
+pycaret

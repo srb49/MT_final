@@ -1,0 +1,112 @@
+HUMAN ESSAY number 16
+
+
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\somrita\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\somrita\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\somrita\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\somrita\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+***********this other cases****************
+Offset 74, length 11, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: proponents
+...equently generates a heated debate with proponenets maintaining that nuclear power provides...
+                                           ^^^^^^^^^^^
+***********this other cases****************
+Offset 296, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma, but not before the comma.
+Suggestion: ,
+...andle. As far as my opinion is concerned , I find myself aligned with opponenets o...
+                                           ^^
+***********this other cases****************
+Offset 326, length 10, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: opponents
+... concerned , I find myself aligned with opponenets of the usages of nuclear power. I have ...
+                                           ^^^^^^^^^^
+***********this other cases****************
+Offset 572, length 8, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: century
+...ther leads towards atomic weapons. Last centuary has witnesed the horrors of such weapon...
+                                           ^^^^^^^^
+***********this other cases****************
+Offset 585, length 8, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: witnessed
+...wards atomic weapons. Last centuary has witnesed the horrors of such weapons. If each co...
+                                           ^^^^^^^^
+***********this other cases****************
+Offset 714, length 9, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: military
+...ess some of them may try to mold it for millitary usage.  Another reason to fortify my op...
+                                           ^^^^^^^^^
+***********this other cases****************
+Offset 1107, length 10, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: inevitable; uneditable
+... much careful we are such accidents are unevitable.  Last but not least, while generating ...
+                                           ^^^^^^^^^^
+***********this other cases****************
+Offset 1186, length 11, Rule ID: EN_COMPOUNDS
+Message: This word is normally spelled as one.
+Suggestion: hydropower
+...generating energy from any source be it hydro power or oil there always is some wastage and...
+                                           ^^^^^^^^^^^
+***********this other cases****************
+Offset 1355, length 8, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: permanent; pergana; perganas; perianal
+...aunting task and there has not been any permanat solution of it. This waste is many time...
+                                           ^^^^^^^^
+***********this other cases****************
+Offset 1458, length 9, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: hazardous
+...o our environment than any of the other hazordous material.  To sum it up, from above men...
+                                           ^^^^^^^^^
+***********this other cases****************
+Offset 1498, length 15, Rule ID: ABOVE_MENTIONED
+Message: The adjective “above-mentioned” is spelled with a hyphen.
+Suggestion: above-mentioned
+...hazordous material.  To sum it up, from above mentioned facts it can easily be deduced that nuc...
+                                           ^^^^^^^^^^^^^^^
+***********this other cases****************
+Offset 1568, length 5, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: appear; spear; pear; aper; a pear; ap ear
+...asily be deduced that nuclear power may apear silver bullet for energy crisis but its...
+                                           ^^^^^
+***********this other cases****************
+Offset 1605, length 4, Rule ID: COMMA_COMPOUND_SENTENCE_2
+Message: Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short).
+Suggestion: , but
+...ay apear silver bullet for energy crisis but its disadvantages far outweigh the adav...
+                                           ^^^^
+***********this other cases****************
+Offset 1645, length 11, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found.
+Suggestion: advantages
+... but its disadvantages far outweigh the adavantages. Thus i suggest that use of nuclear tec...
+                                           ^^^^^^^^^^^
+***********this other cases****************
+Offset 1658, length 4, Rule ID: SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA
+Message: A comma may be missing after the conjunctive/linking adverb ‘Thus’.
+Suggestion: Thus,
+...dvantages far outweigh the adavantages. Thus i suggest that use of nuclear technolog...
+                                           ^^^^
+***********this other cases****************
+Offset 1663, length 1, Rule ID: I_LOWERCASE
+Message: The personal pronoun “I” should be uppercase.
+Suggestion: I
+...ages far outweigh the adavantages. Thus i suggest that use of nuclear technology ...
+                                           ^
+total count  16
