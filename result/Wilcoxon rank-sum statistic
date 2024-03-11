@@ -1,0 +1,141 @@
+Feature: para_count, p-value: 6.031701026206971e-35
+Feature: coleman_liau, p-value: 1.234145305496365e-33
+Feature: sw_rate, p-value: 3.098176360906213e-33
+Feature: lexical diversity, p-value: 1.6207958660092478e-30
+Feature: word_sim_p_count, p-value: 1.7792706381106547e-29
+Feature: word_count, p-value: 7.708060460101128e-29
+Feature: sum_repeated_ngrams, p-value: 3.981987919163347e-25
+Feature: discourse_marker, p-value: 5.367878047346168e-25
+Feature: count_repeated_ngrams, p-value: 6.746877493632493e-25
+Feature: noun, p-value: 6.984417533400684e-25
+Feature: grammar, p-value: 2.1013066659912164e-24
+Feature: word_sim_score, p-value: 3.161822903750262e-23
+Feature: word_sim_p_score, p-value: 3.565101924884163e-23
+Feature: sentence_count, p-value: 7.803927086263534e-23
+Feature: occurrance_of_most_freq_word, p-value: 1.4313497112904603e-22
+Feature: max_occurrence_ngrams, p-value: 9.122325356112142e-21
+Feature: pron, p-value: 2.747780823720486e-19
+Feature: Automated Readability, p-value: 2.1191901738210093e-18
+Feature: flesch grade, p-value: 4.735082312358414e-18
+Feature: avg_stop_word, p-value: 1.7661737798124848e-15
+Feature: unique_words, p-value: 2.1716486733373905e-13
+Feature: positive_sentiment, p-value: 9.849995079917472e-10
+Feature: sentence_len(max), p-value: 4.640518741546976e-09
+Feature: verb, p-value: 1.757606343119309e-07
+Feature: adj, p-value: 2.4250222773201676e-07
+Feature: neutral_sentiment, p-value: 9.840973286544154e-06
+Feature: word_sim_n_score, p-value: 0.0002871472687982526
+Feature: word_sim_n_count, p-value: 0.0007452046037129403
+Feature: avg sentence complexity, p-value: 0.0013335662330901375
+Feature: sentence_len(mean), p-value: 0.006958182757862988
+Feature: rate_of_occurrance, p-value: 0.0362143907080528
+Feature: sentence_len(min), p-value: 0.10101853406053538
+Feature: negative_sentiment, p-value: 0.10311157040376501
+Feature: modal verb, p-value: 0.6881759493897115
+Rank: 1, Feature: para_count
+Rank: 2, Feature: coleman_liau
+Rank: 3, Feature: sw_rate
+Rank: 4, Feature: lexical diversity
+Rank: 5, Feature: word_sim_p_count
+Rank: 6, Feature: word_count
+Rank: 7, Feature: sum_repeated_ngrams
+Rank: 8, Feature: discourse_marker
+Rank: 9, Feature: count_repeated_ngrams
+Rank: 10, Feature: noun
+Rank: 11, Feature: grammar
+Rank: 12, Feature: word_sim_score
+Rank: 13, Feature: word_sim_p_score
+Rank: 14, Feature: sentence_count
+Rank: 15, Feature: occurrance_of_most_freq_word
+Rank: 16, Feature: max_occurrence_ngrams
+Rank: 17, Feature: pron
+Rank: 18, Feature: Automated Readability
+Rank: 19, Feature: flesch grade
+Rank: 20, Feature: avg_stop_word
+Rank: 21, Feature: unique_words
+Rank: 22, Feature: positive_sentiment
+Rank: 23, Feature: sentence_len(max)
+Rank: 24, Feature: verb
+Rank: 25, Feature: adj
+Rank: 26, Feature: neutral_sentiment
+Rank: 27, Feature: word_sim_n_score
+Rank: 28, Feature: word_sim_n_count
+Rank: 29, Feature: avg sentence complexity
+Rank: 30, Feature: sentence_len(mean)
+Rank: 31, Feature: rate_of_occurrance
+Rank: 32, Feature: sentence_len(min)
+Rank: 33, Feature: negative_sentiment
+Rank: 34, Feature: modal verb
+Features arranged from best to worst:
+1. para_count
+2. coleman_liau
+3. sw_rate
+4. lexical diversity
+5. word_sim_p_count
+6. word_count
+7. sum_repeated_ngrams
+8. discourse_marker
+9. count_repeated_ngrams
+10. noun
+11. grammar
+12. word_sim_score
+13. word_sim_p_score
+14. sentence_count
+15. occurrance_of_most_freq_word
+16. max_occurrence_ngrams
+17. pron
+18. Automated Readability
+19. flesch grade
+20. avg_stop_word
+21. unique_words
+22. positive_sentiment
+23. sentence_len(max)
+24. verb
+25. adj
+26. neutral_sentiment
+27. word_sim_n_score
+28. word_sim_n_count
+29. avg sentence complexity
+30. sentence_len(mean)
+31. rate_of_occurrance
+32. sentence_len(min)
+33. negative_sentiment
+34. modal verb
+Features arranged from best to worst:
+['para_count', 'coleman_liau', 'sw_rate', 'lexical diversity', 'word_sim_p_count', 'word_count', 'sum_repeated_ngrams', 'discourse_marker', 'count_repeated_ngrams', 'noun', 'grammar', 'word_sim_score', 'word_sim_p_score', 'sentence_count', 'occurrance_of_most_freq_word', 'max_occurrence_ngrams', 'pron', 'Automated Readability', 'flesch grade', 'avg_stop_word', 'unique_words', 'positive_sentiment', 'sentence_len(max)', 'verb', 'adj', 'neutral_sentiment', 'word_sim_n_score', 'word_sim_n_count', 'avg sentence complexity', 'sentence_len(mean)', 'rate_of_occurrance', 'sentence_len(min)', 'negative_sentiment', 'modal verb']
+Features arranged from best to worst based on p-values:
+['para_count', 'coleman_liau', 'sw_rate', 'lexical diversity', 'word_sim_p_count', 'word_count', 'sum_repeated_ngrams', 'discourse_marker', 'count_repeated_ngrams', 'noun', 'grammar', 'word_sim_score', 'word_sim_p_score', 'sentence_count', 'occurrance_of_most_freq_word', 'max_occurrence_ngrams', 'pron', 'Automated Readability', 'flesch grade', 'avg_stop_word', 'unique_words', 'positive_sentiment', 'sentence_len(max)', 'verb', 'adj', 'neutral_sentiment', 'word_sim_n_score', 'word_sim_n_count', 'avg sentence complexity', 'sentence_len(mean)', 'rate_of_occurrance', 'sentence_len(min)', 'negative_sentiment', 'modal verb']
+[('para_count', 6.031701026206971e-35),
+ ('coleman_liau', 1.234145305496365e-33),
+ ('sw_rate', 3.098176360906213e-33),
+ ('lexical diversity', 1.6207958660092478e-30),
+ ('word_sim_p_count', 1.7792706381106547e-29),
+ ('word_count', 7.708060460101128e-29),
+ ('sum_repeated_ngrams', 3.981987919163347e-25),
+ ('discourse_marker', 5.367878047346168e-25),
+ ('count_repeated_ngrams', 6.746877493632493e-25),
+ ('noun', 6.984417533400684e-25),
+ ('grammar', 2.1013066659912164e-24),
+ ('word_sim_score', 3.161822903750262e-23),
+ ('word_sim_p_score', 3.565101924884163e-23),
+ ('sentence_count', 7.803927086263534e-23),
+ ('occurrance_of_most_freq_word', 1.4313497112904603e-22),
+ ('max_occurrence_ngrams', 9.122325356112142e-21),
+ ('pron', 2.747780823720486e-19),
+ ('Automated Readability', 2.1191901738210093e-18),
+ ('flesch grade', 4.735082312358414e-18),
+ ('avg_stop_word', 1.7661737798124848e-15),
+ ('unique_words', 2.1716486733373905e-13),
+ ('positive_sentiment', 9.849995079917472e-10),
+ ('sentence_len(max)', 4.640518741546976e-09),
+ ('verb', 1.757606343119309e-07),
+ ('adj', 2.4250222773201676e-07),
+ ('neutral_sentiment', 9.840973286544154e-06),
+ ('word_sim_n_score', 0.0002871472687982526),
+ ('word_sim_n_count', 0.0007452046037129403),
+ ('avg sentence complexity', 0.0013335662330901375),
+ ('sentence_len(mean)', 0.006958182757862988),
+ ('rate_of_occurrance', 0.0362143907080528),
+ ('sentence_len(min)', 0.10101853406053538),
+ ('negative_sentiment', 0.10311157040376501),
+ ('modal verb', 0.6881759493897115)]
