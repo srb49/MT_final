@@ -32,6 +32,8 @@ Feature: rate_of_occurrance, p-value: 0.0362143907080528
 Feature: sentence_len(min), p-value: 0.10101853406053538
 Feature: negative_sentiment, p-value: 0.10311157040376501
 Feature: modal verb, p-value: 0.6881759493897115
+
+
 Rank: 1, Feature: para_count
 Rank: 2, Feature: coleman_liau
 Rank: 3, Feature: sw_rate
@@ -66,76 +68,3 @@ Rank: 31, Feature: rate_of_occurrance
 Rank: 32, Feature: sentence_len(min)
 Rank: 33, Feature: negative_sentiment
 Rank: 34, Feature: modal verb
-Features arranged from best to worst:
-1. para_count
-2. coleman_liau
-3. sw_rate
-4. lexical diversity
-5. word_sim_p_count
-6. word_count
-7. sum_repeated_ngrams
-8. discourse_marker
-9. count_repeated_ngrams
-10. noun
-11. grammar
-12. word_sim_score
-13. word_sim_p_score
-14. sentence_count
-15. occurrance_of_most_freq_word
-16. max_occurrence_ngrams
-17. pron
-18. Automated Readability
-19. flesch grade
-20. avg_stop_word
-21. unique_words
-22. positive_sentiment
-23. sentence_len(max)
-24. verb
-25. adj
-26. neutral_sentiment
-27. word_sim_n_score
-28. word_sim_n_count
-29. avg sentence complexity
-30. sentence_len(mean)
-31. rate_of_occurrance
-32. sentence_len(min)
-33. negative_sentiment
-34. modal verb
-Features arranged from best to worst:
-['para_count', 'coleman_liau', 'sw_rate', 'lexical diversity', 'word_sim_p_count', 'word_count', 'sum_repeated_ngrams', 'discourse_marker', 'count_repeated_ngrams', 'noun', 'grammar', 'word_sim_score', 'word_sim_p_score', 'sentence_count', 'occurrance_of_most_freq_word', 'max_occurrence_ngrams', 'pron', 'Automated Readability', 'flesch grade', 'avg_stop_word', 'unique_words', 'positive_sentiment', 'sentence_len(max)', 'verb', 'adj', 'neutral_sentiment', 'word_sim_n_score', 'word_sim_n_count', 'avg sentence complexity', 'sentence_len(mean)', 'rate_of_occurrance', 'sentence_len(min)', 'negative_sentiment', 'modal verb']
-Features arranged from best to worst based on p-values:
-['para_count', 'coleman_liau', 'sw_rate', 'lexical diversity', 'word_sim_p_count', 'word_count', 'sum_repeated_ngrams', 'discourse_marker', 'count_repeated_ngrams', 'noun', 'grammar', 'word_sim_score', 'word_sim_p_score', 'sentence_count', 'occurrance_of_most_freq_word', 'max_occurrence_ngrams', 'pron', 'Automated Readability', 'flesch grade', 'avg_stop_word', 'unique_words', 'positive_sentiment', 'sentence_len(max)', 'verb', 'adj', 'neutral_sentiment', 'word_sim_n_score', 'word_sim_n_count', 'avg sentence complexity', 'sentence_len(mean)', 'rate_of_occurrance', 'sentence_len(min)', 'negative_sentiment', 'modal verb']
-[('para_count', 6.031701026206971e-35),
- ('coleman_liau', 1.234145305496365e-33),
- ('sw_rate', 3.098176360906213e-33),
- ('lexical diversity', 1.6207958660092478e-30),
- ('word_sim_p_count', 1.7792706381106547e-29),
- ('word_count', 7.708060460101128e-29),
- ('sum_repeated_ngrams', 3.981987919163347e-25),
- ('discourse_marker', 5.367878047346168e-25),
- ('count_repeated_ngrams', 6.746877493632493e-25),
- ('noun', 6.984417533400684e-25),
- ('grammar', 2.1013066659912164e-24),
- ('word_sim_score', 3.161822903750262e-23),
- ('word_sim_p_score', 3.565101924884163e-23),
- ('sentence_count', 7.803927086263534e-23),
- ('occurrance_of_most_freq_word', 1.4313497112904603e-22),
- ('max_occurrence_ngrams', 9.122325356112142e-21),
- ('pron', 2.747780823720486e-19),
- ('Automated Readability', 2.1191901738210093e-18),
- ('flesch grade', 4.735082312358414e-18),
- ('avg_stop_word', 1.7661737798124848e-15),
- ('unique_words', 2.1716486733373905e-13),
- ('positive_sentiment', 9.849995079917472e-10),
- ('sentence_len(max)', 4.640518741546976e-09),
- ('verb', 1.757606343119309e-07),
- ('adj', 2.4250222773201676e-07),
- ('neutral_sentiment', 9.840973286544154e-06),
- ('word_sim_n_score', 0.0002871472687982526),
- ('word_sim_n_count', 0.0007452046037129403),
- ('avg sentence complexity', 0.0013335662330901375),
- ('sentence_len(mean)', 0.006958182757862988),
- ('rate_of_occurrance', 0.0362143907080528),
- ('sentence_len(min)', 0.10101853406053538),
- ('negative_sentiment', 0.10311157040376501),
- ('modal verb', 0.6881759493897115)]
